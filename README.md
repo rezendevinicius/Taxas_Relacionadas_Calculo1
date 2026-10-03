@@ -5,8 +5,7 @@ Notebook desenvolvido para a monitoria voluntária de Cálculo 1 (UFLA), usado e
 O fio condutor é a **Segunda Lei de Kepler** — o raio que liga um planeta ao Sol varre áreas iguais em tempos iguais — observada por Kepler (1609) e demonstrada por Newton no *Principia* (1687). Ela serve de motivação histórica para introduzir taxas relacionadas e volta no Problema 3.
 
 
-[Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rezendevinicius/Taxas_Relacionadas_Calculo1/blob/main/aulao_taxas_relacionadas_final.ipynb)
--->
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rezendevinicius/Taxas_Relacionadas_Calculo1/blob/main/aulao_taxas_relacionadas_final.ipynb)
 
 ## Conteúdo
 
